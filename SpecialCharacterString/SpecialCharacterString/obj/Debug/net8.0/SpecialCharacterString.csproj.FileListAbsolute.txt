@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\bin\Debug\net8.0\SpecialCharacterString.exe
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\bin\Debug\net8.0\SpecialCharacterString.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\bin\Debug\net8.0\SpecialCharacterString.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\bin\Debug\net8.0\SpecialCharacterString.dll
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\bin\Debug\net8.0\SpecialCharacterString.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.dll
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\refint\SpecialCharacterString.dll
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\SpecialCharacterString.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\SpecialCharacterString\SpecialCharacterString\obj\Debug\net8.0\ref\SpecialCharacterString.dll

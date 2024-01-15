@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\bin\Debug\net8.0\ReturnValueMethods.exe
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\bin\Debug\net8.0\ReturnValueMethods.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\bin\Debug\net8.0\ReturnValueMethods.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\bin\Debug\net8.0\ReturnValueMethods.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\bin\Debug\net8.0\ReturnValueMethods.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\refint\ReturnValueMethods.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ReturnValueMethods.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ReturnValueMethods\ReturnValueMethods\obj\Debug\net8.0\ref\ReturnValueMethods.dll

@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.exe
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\refint\ConsoleClass.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ref\ConsoleClass.dll

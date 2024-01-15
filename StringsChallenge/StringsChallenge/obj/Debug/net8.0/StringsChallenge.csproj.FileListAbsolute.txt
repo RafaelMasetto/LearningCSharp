@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\bin\Debug\net8.0\StringsChallenge.exe
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\bin\Debug\net8.0\StringsChallenge.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\bin\Debug\net8.0\StringsChallenge.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\bin\Debug\net8.0\StringsChallenge.dll
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\bin\Debug\net8.0\StringsChallenge.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.dll
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\refint\StringsChallenge.dll
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\StringsChallenge.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\StringsChallenge\StringsChallenge\obj\Debug\net8.0\ref\StringsChallenge.dll

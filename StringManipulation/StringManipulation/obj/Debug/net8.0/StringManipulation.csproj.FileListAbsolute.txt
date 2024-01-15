@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\bin\Debug\net8.0\StringManipulation.exe
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\bin\Debug\net8.0\StringManipulation.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\bin\Debug\net8.0\StringManipulation.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\bin\Debug\net8.0\StringManipulation.dll
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\bin\Debug\net8.0\StringManipulation.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.dll
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\refint\StringManipulation.dll
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\StringManipulation.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\StringManipulation\StringManipulation\obj\Debug\net8.0\ref\StringManipulation.dll

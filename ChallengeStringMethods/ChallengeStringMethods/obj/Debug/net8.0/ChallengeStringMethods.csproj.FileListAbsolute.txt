@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\bin\Debug\net8.0\ChallengeStringMethods.exe
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\bin\Debug\net8.0\ChallengeStringMethods.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\bin\Debug\net8.0\ChallengeStringMethods.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\bin\Debug\net8.0\ChallengeStringMethods.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\bin\Debug\net8.0\ChallengeStringMethods.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\refint\ChallengeStringMethods.dll
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ChallengeStringMethods.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\ChallengeStringMethods\ChallengeStringMethods\obj\Debug\net8.0\ref\ChallengeStringMethods.dll
